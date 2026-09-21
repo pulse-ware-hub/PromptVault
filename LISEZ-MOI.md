@@ -10,6 +10,8 @@ Application native légère (Tauri 2 : cœur Rust + interface React), données s
 
 Repo: <https://github.com/pulse-ware-hub/PromptVault>
 
+<p align="center"><img src="docs/screenshot.fr.png" alt="Fenêtre principale de PromptVault" width="820"></p>
+
 ## Fonctionnalités
 
 - **Dossiers** imbriqués ; un nouveau prompt arrive dans « Mes prompts » (dossier par défaut, non supprimable).
@@ -104,6 +106,7 @@ supprimez ce fichier.
 ```
 prompt-vault/
 ├── archive/              Application précompilée : PromptVault.app (non signée)
+├── docs/                 Captures d'écran utilisées dans les README (EN / FR)
 ├── src/                  Interface React + TypeScript
 │   ├── assets/           Icône de l'application et logo Pulse-Ware
 │   ├── components/       Sidebar, PromptList, Editor, Palette, AiPanel, SettingsDialog, AboutDialog…

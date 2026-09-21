@@ -10,6 +10,8 @@ A lightweight native app (Tauri 2: Rust core + React interface) that stores your
 
 Repository: <https://github.com/pulse-ware-hub/PromptVault>
 
+<p align="center"><img src="docs/screenshot.png" alt="PromptVault main window" width="820"></p>
+
 ## Features
 
 - Nested **folders**; a new prompt lands in “My prompts” (the default folder, which cannot be deleted).
@@ -105,6 +107,7 @@ Back it up with **Backup ▸ Export library (JSON)**. To start from scratch, qui
 ```
 PromptVault/
 ├── archive/              Pre-built application: PromptVault.app (unsigned)
+├── docs/                 Screenshots used in the READMEs (EN / FR)
 ├── src/                  React + TypeScript interface
 │   ├── assets/           App icon and Pulse-Ware logo
 │   ├── components/       Sidebar, PromptList, Editor, Palette, AiPanel, SettingsDialog, AboutDialog…
