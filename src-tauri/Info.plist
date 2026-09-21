@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- Palette ⌥⌘P : demande l'autorisation de piloter « System Events » pour coller (⌘V) dans l'app précédente. -->
+  <key>NSAppleEventsUsageDescription</key>
+  <string>PromptVault colle le prompt choisi dans l'application que vous utilisiez (Pastes the chosen prompt into the app you were using).</string>
+</dict>
+</plist>
