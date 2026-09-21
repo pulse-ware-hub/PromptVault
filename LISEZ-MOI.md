@@ -5,8 +5,6 @@
 
 🇬🇧 [Read in English](README.md)
 
-<p align="center"><img src="src/assets/icon.png" width="128" alt="PromptVault"></p>
-
 Gestionnaire de prompts pour macOS, dans l'esprit d'Apple Notes : une arborescence de dossiers, une liste, un éditeur.
 Application native légère (Tauri 2 : cœur Rust + interface React), données stockées **localement** dans SQLite.
 

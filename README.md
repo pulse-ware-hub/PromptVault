@@ -5,8 +5,6 @@
 
 🇫🇷 [Lire en français](LISEZ-MOI.md)
 
-<p align="center"><img src="src/assets/icon.png" width="128" alt="PromptVault"></p>
-
 A prompt manager for macOS in the spirit of Apple Notes: a folder tree, a list and an editor.
 A lightweight native app (Tauri 2: Rust core + React interface) that stores your data **locally** in SQLite.
 
